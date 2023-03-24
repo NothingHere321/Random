@@ -622,4 +622,4 @@ function loop() {
 }
 window.masterloop = setInterval(loop, 2000);
 }, 2000); //makes this run after 2 seconds
---https://github.com/brybryxle/EdgenTweaks/blob/118187606e453866185dba1a9b60a69fb319b200/copy-to-tampermonkey.js
+// https://github.com/brybryxle/EdgenTweaks/blob/118187606e453866185dba1a9b60a69fb319b200/copy-to-tampermonkey.js
